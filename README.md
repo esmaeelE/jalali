@@ -6,6 +6,11 @@ Jalali calendar
 * add `jdate` to debian repository
 * study how I can add jalali to `glibc`
 
-https://download.savannah.gnu.org/releases/jcal/
+* source of package
+  https://download.savannah.gnu.org/releases/jcal/
 
-check sig
+check sig?
+
+## install jdate on debian based
+
+* https://wiki.ubuntu.ir/wiki/Jcal
