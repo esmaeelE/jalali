@@ -16,3 +16,4 @@ check sig?
 * https://wiki.ubuntu.ir/wiki/Jcal
 
 * Developer: https://github.com/ashkang
+* foroud version: https://github.com/persiancal/jcal
