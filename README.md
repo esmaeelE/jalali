@@ -14,3 +14,5 @@ check sig?
 ## install jdate on debian based
 
 * https://wiki.ubuntu.ir/wiki/Jcal
+
+* Developer: https://github.com/ashkang
