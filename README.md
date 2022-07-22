@@ -7,6 +7,10 @@ Jalali calendar
 
 `https://salsa.debian.org`
 
+*‌ It is added in new version of packages in debian:
+
+- https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=863753
+- https://packages.debian.org/sid/amd64/jcal/download
 
 * study how I can add jalali to `glibc`
 
