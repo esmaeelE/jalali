@@ -35,3 +35,15 @@ https://packages.debian.org/bullseye/jcal
 
 پست‌های مرتبط
 https://forum.ubuntu.ir/index.php?topic=95317.0
+
+https://meidaan.com/archive/42617
+
+http://download.savannah.gnu.org/releases/jcal/
+
+https://mehdix.ir/rip-ashkan.html
+
+http://git.savannah.gnu.org/cgit/jcal.git/log/
+
+https://github.com/ashkang/jcal
+
+https://forum.ubuntu.ir/index.php?topic=146776.0
