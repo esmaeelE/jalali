@@ -29,11 +29,14 @@ check sig?
 * articles about ashkan: https://jadi.net/?s=%D8%A7%D8%B4%DA%A9%D8%A7%D9%86+%D9%82%D8%A7%D8%B3%D9%85%DB%8C
 * https://stackoverflow.com/questions/5141960/get-the-current-time-in-c
 
-jcal in debian repo:
+## jcal in debian repo
 
-https://packages.debian.org/bullseye/jcal
+* https://packages.debian.org/bullseye/jcal
 
-پست‌های مرتبط
+
+**پست‌های مرتبط**
+
+
 https://forum.ubuntu.ir/index.php?topic=95317.0
 
 https://meidaan.com/archive/42617
