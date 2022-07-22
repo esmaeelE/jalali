@@ -47,3 +47,8 @@ http://git.savannah.gnu.org/cgit/jcal.git/log/
 https://github.com/ashkang/jcal
 
 https://forum.ubuntu.ir/index.php?topic=146776.0
+
+* Run simple conky with jcal jdate 
+* 
+
+
