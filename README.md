@@ -12,6 +12,11 @@ Jalali calendar
 
 * source of package
   https://download.savannah.gnu.org/releases/jcal/
+* convert jalali 2 gragorian date for example:
+
+اول مهر ۱۳۷۰
+به میلادی چه روزی است. و بالعکس.
+ابتدا کد برنامه تمیز و تکمیل شود سپس به مخازن دبیان افزوده شود.
 
 check sig?
 
