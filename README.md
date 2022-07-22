@@ -32,3 +32,6 @@ check sig?
 jcal in debian repo:
 
 https://packages.debian.org/bullseye/jcal
+
+پست‌های مرتبط
+https://forum.ubuntu.ir/index.php?topic=95317.0
