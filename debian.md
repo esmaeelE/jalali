@@ -6,3 +6,5 @@
 `dpkg-buildpackage -b -uc -us`
 
 https://linuxconfig.org/easy-way-to-create-a-debian-package-and-local-package-repository
+
+http://www.nongnu.org/jcal/
