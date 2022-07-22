@@ -28,3 +28,7 @@ check sig?
 * foroud version: https://github.com/persiancal/jcal
 * articles about ashkan: https://jadi.net/?s=%D8%A7%D8%B4%DA%A9%D8%A7%D9%86+%D9%82%D8%A7%D8%B3%D9%85%DB%8C
 * https://stackoverflow.com/questions/5141960/get-the-current-time-in-c
+
+jcal in debian repo:
+
+https://packages.debian.org/bullseye/jcal
